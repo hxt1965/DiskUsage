@@ -11,7 +11,9 @@ After cloning the repository, use the following command to run the program with 
 
 `dotnet run [-s] [-p] [-b] <path>`
 
- - Pass in -s to perform Sequential parsing of files 
+The following arguments determine how the program is run 
+
+ - Pass in -s to perform sequential parsing of files 
  - Pass -p to parse through the files in parallel using the `System.Threading` library 
  - Pass in -b to do both 
  
