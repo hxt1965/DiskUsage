@@ -5,7 +5,7 @@ While possible to run on the entirety of the disk, it is more common to run it i
 
 The [.Net]() framework is used, so this program will run equally well on Linux/Mac/Windows. 
 
-##Usage 
+## Usage 
 
 After cloning the repository, use the following command to run the program with the following 
 `dotnet run [-s] [-p] [-b] <path>`
