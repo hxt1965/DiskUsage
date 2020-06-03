@@ -7,7 +7,8 @@ The [.Net]() framework is used, so this program will run equally well on Linux/M
 
 ## Usage 
 
-After cloning the repository, use the following command to run the program with the following 
+After cloning the repository, use the following command to run the program with the following command
+
 `dotnet run [-s] [-p] [-b] <path>`
 
  - Pass in -s to perform Sequential parsing of files 
