@@ -28,6 +28,7 @@ namespace du
             if (args.Length != 2)
             {
                 Console.WriteLine("Not enough arguments provided!\n");
+                Console.WriteLine(args.Length);
                 ShowHelp();
                 return;
             }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\harsh\\Google Drive\\RIT\\Year 3\\SEM192\\CSCI251\\Projects\\du\\du.csproj": {}
+    "C:\\Users\\harsh\\Google Drive\\RIT\\Year 3\\SEM192\\CSCI251\\Projects\\du\\DiskUsage\\du.csproj": {}
   },
   "projects": {
-    "C:\\Users\\harsh\\Google Drive\\RIT\\Year 3\\SEM192\\CSCI251\\Projects\\du\\du.csproj": {
+    "C:\\Users\\harsh\\Google Drive\\RIT\\Year 3\\SEM192\\CSCI251\\Projects\\du\\DiskUsage\\du.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\harsh\\Google Drive\\RIT\\Year 3\\SEM192\\CSCI251\\Projects\\du\\du.csproj",
+        "projectUniqueName": "C:\\Users\\harsh\\Google Drive\\RIT\\Year 3\\SEM192\\CSCI251\\Projects\\du\\DiskUsage\\du.csproj",
         "projectName": "du",
-        "projectPath": "C:\\Users\\harsh\\Google Drive\\RIT\\Year 3\\SEM192\\CSCI251\\Projects\\du\\du.csproj",
+        "projectPath": "C:\\Users\\harsh\\Google Drive\\RIT\\Year 3\\SEM192\\CSCI251\\Projects\\du\\DiskUsage\\du.csproj",
         "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\harsh\\Google Drive\\RIT\\Year 3\\SEM192\\CSCI251\\Projects\\du\\obj\\",
+        "outputPath": "C:\\Users\\harsh\\Google Drive\\RIT\\Year 3\\SEM192\\CSCI251\\Projects\\du\\DiskUsage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
